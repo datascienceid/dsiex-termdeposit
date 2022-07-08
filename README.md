@@ -38,4 +38,6 @@ jupyter lab
     |--src
 ```
 
+## Reference
 
+This project use data science template [here](https://github.com/alamhanz/data_science_template)
