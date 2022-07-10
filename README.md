@@ -40,4 +40,5 @@ jupyter lab
 
 ## Reference
 
-This project use data science template [here](https://github.com/alamhanz/data_science_template)
+* This project use data science template [here](https://github.com/alamhanz/data_science_template)
+* Data source [here](https://docs.google.com/spreadsheets/d/1eCCy19ScSG9AggvyNtlsaHcemsX8byPgwNxOzYJoEws/edit#gid=1333185318)
