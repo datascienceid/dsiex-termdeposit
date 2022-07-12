@@ -22,6 +22,8 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
+or run this repo in [this docker](https://hub.docker.com/r/alamhanz/jupebase/tags)
+
 ## Structure
 
 ```
