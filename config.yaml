@@ -4,6 +4,7 @@ path:
     processed: "../../data/processed/"
     artifact: "../../artifacts/"
     udf: "../../src"
+    figure: "../../reports/figures/"
     
 path-make:
     raw: "data/raw/"
@@ -11,3 +12,4 @@ path-make:
     processed: "data/processed/"
     artifact: "artifacts/"
     udf: "src/"
+    figure: "reports/figures/"

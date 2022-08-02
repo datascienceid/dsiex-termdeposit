@@ -4,3 +4,4 @@ path:
     processed: "data/processed/"
     artifact: "artifacts/"
     udf: "src/"
+    figure: "reports/figures/"
