@@ -47,7 +47,7 @@ or run this repo in [this docker](https://hub.docker.com/r/alamhanz/jupebase/tag
 The best features to predict Term Deposit is Duration. The longer the call duration, the more possible a customer become subscriber.
 However, because this relation is still correlation (not causation) the customer interest that may make the duration call longer.
 
-![](reports/figures/iteration2_shap.png)
+<img src="reports/figures/iteration2_shap.png" alt="drawing" width="600"/>
 
 Also, the evaluation of the model is still low. The Recall is 0.63 with Precision 0.42. There should be a better feature engineering to be done.
 
