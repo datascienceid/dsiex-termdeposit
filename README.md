@@ -22,7 +22,7 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-or run this repo in [this docker](https://hub.docker.com/r/alamhanz/jupebase/tags)
+or run this repo in [this docker](https://hub.docker.com/layers/jupebase/alamhanz/jupebase/keras-py37-lab/images/sha256-25cf8af2f05c20a49cafcfa30b285f8c9de0934d43c5396de4a572ecc464db62?context=explore)
 
 ## Structure
 
